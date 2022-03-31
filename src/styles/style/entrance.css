@@ -1,0 +1,14 @@
+.intro{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+    width: auto;
+    height: auto;
+    top:50px;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.initialtext{
+    font-size: larger;
+}

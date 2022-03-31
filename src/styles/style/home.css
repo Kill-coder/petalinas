@@ -1,0 +1,150 @@
+@font-face { 
+    font-family: Boldie; 
+    src: url('../../fonts/boldie-font/Boldie-Slab-Regular.ttf'); 
+    font-weight: normal;
+}
+
+
+/*Navbar*/
+.navbar{
+    padding-left: 2px;
+    position: relative;
+}
+
+.navbar .social-media {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.navbar .social-media p{
+    text-align: left;
+    font-size: small;
+}
+
+
+/*Info one*/
+.info{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: larger;
+    width: auto;
+    width: auto;
+    background-image: url('../../styles/images/llaurant-logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.info .slogan{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Boldie;
+}
+
+.info .slogantwo{
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 0px;
+    font-family: Boldie;
+}
+
+.info .text-petalinas{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+
+/*Propiedades*/
+
+.propiedades{
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+    height: 400px;
+
+}
+
+.propiedades .frases{
+    width: auto;
+    height: auto;
+}
+
+.propiedades .frase{
+    position: relative;
+    margin-top: 30px;
+    margin-left: 45px;
+    font-size: larger;
+    font-family: 'Boldie';
+}
+
+
+/*Info adiccional*/
+
+.ingredientes{
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ingredientes .resaltado{
+  font-size: larger;
+  margin-left: 10px;
+}
+
+.ingredientes .especias{
+    margin-left: 30px;
+}
+
+.ingredientes .curiosidades{
+    margin-left: 30px;
+}
+
+.ingredientes .azafran{
+    margin-left: 30px;
+}
+
+
+/*Footer*/
+.footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    background-color: #8a2be2;   
+}
+
+
+.footer .textfooter {
+    color: orange;
+    font-size: small;
+}
+
+.footer .localizacion{
+    color: orange;
+    font-size: small;
+}
+
+
+.fotos{
+    position: relative;
+    top: 40px;
+    width: auto;
+    height: auto;
+    justify-content: center;
+}
+
+.fotos .fotoBolsa{
+    position: relative;
+    justify-content: center;
+    margin-left: 36%;
+}
+
