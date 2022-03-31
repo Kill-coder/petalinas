@@ -10,7 +10,7 @@ export const LoadPAge = () =>{
     const navigate = useNavigate();
 
     const redirectingHome =( )=>{
-        navigate('https://kill-coder.github.io/petalinas/home');
+        navigate('/home');
     }
 
     return(
