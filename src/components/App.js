@@ -11,8 +11,8 @@ export function App () {
     return(
         <BrowserRouter>
              <Routes>
-                <Route path='https://kill-coder.github.io/petalinas' element={<LoadPAge/>}/>
-                <Route path='https://kill-coder.github.io/petalinas/home' element={<Home/>}/>
+                <Route path='http://kill-coder.github.io/petalinas' element={<LoadPAge/>}/>
+                <Route path='http://kill-coder.github.io/petalinas/home' element={<Home/>}/>
                 <Route path='*' element={<NotFound/>}/>
              </Routes>
         </BrowserRouter>
