@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/petalinas/static/css/main.477c839d.css",
+    "main.js": "/petalinas/static/js/main.84311beb.js",
+    "static/media/bolsa_petalinas.png": "/petalinas/static/media/bolsa_petalinas.8a2b5a04beac87bee3f7.png",
+    "static/media/Bolsa_gusanitos.png": "/petalinas/static/media/Bolsa_gusanitos.15f24724ba4c782de6e5.png",
+    "static/media/logo_Petalinas.png": "/petalinas/static/media/logo_Petalinas.a17786a9f4dde9d9e72a.png",
+    "static/media/fuente_fibra.png": "/petalinas/static/media/fuente_fibra.f1224a07a83d94f85050.png",
+    "static/media/sin_sal.png": "/petalinas/static/media/sin_sal.fb3391e28af835155c45.png",
+    "static/media/celiacos.png": "/petalinas/static/media/celiacos.0698c6257ab3d19a4f3f.png",
+    "static/media/bajo_sal.png": "/petalinas/static/media/bajo_sal.6112567f41a2a18698bb.png",
+    "static/media/veganos.png": "/petalinas/static/media/veganos.201f39073b2da9dff318.png",
+    "static/media/Boldie-Slab-Regular.ttf": "/petalinas/static/media/Boldie-Slab-Regular.43a1955a6bdd95f64a14.ttf",
+    "static/media/Bajo_grasa.png": "/petalinas/static/media/Bajo_grasa.e592409fa88130048347.png",
+    "static/media/llaurant-logo.png": "/petalinas/static/media/llaurant-logo.cdbe754bae91f93d3536.png",
+    "index.html": "/petalinas/index.html",
+    "main.477c839d.css.map": "/petalinas/static/css/main.477c839d.css.map",
+    "main.84311beb.js.map": "/petalinas/static/js/main.84311beb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477c839d.css",
+    "static/js/main.84311beb.js"
+  ]
+}
