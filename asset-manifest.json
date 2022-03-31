@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/petalinas/static/css/main.477c839d.css",
-    "main.js": "/petalinas/static/js/main.84311beb.js",
+    "main.js": "/petalinas/static/js/main.689b5ff6.js",
     "static/media/bolsa_petalinas.png": "/petalinas/static/media/bolsa_petalinas.8a2b5a04beac87bee3f7.png",
     "static/media/Bolsa_gusanitos.png": "/petalinas/static/media/Bolsa_gusanitos.15f24724ba4c782de6e5.png",
     "static/media/logo_Petalinas.png": "/petalinas/static/media/logo_Petalinas.a17786a9f4dde9d9e72a.png",
@@ -15,10 +15,10 @@
     "static/media/llaurant-logo.png": "/petalinas/static/media/llaurant-logo.cdbe754bae91f93d3536.png",
     "index.html": "/petalinas/index.html",
     "main.477c839d.css.map": "/petalinas/static/css/main.477c839d.css.map",
-    "main.84311beb.js.map": "/petalinas/static/js/main.84311beb.js.map"
+    "main.689b5ff6.js.map": "/petalinas/static/js/main.689b5ff6.js.map"
   },
   "entrypoints": [
     "static/css/main.477c839d.css",
-    "static/js/main.84311beb.js"
+    "static/js/main.689b5ff6.js"
   ]
 }
